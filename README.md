@@ -1,5 +1,3 @@
-# REBU
-</section>
 <!DOCTYPE html>
 <html lang="es">
 <head>
